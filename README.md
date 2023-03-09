@@ -1,5 +1,5 @@
-# loss-Approximation-lending-portfolio-machine-learning
-Simplified Approximation of Extraordinary Losses on a Lending Portfolio Using Machine Learning
+# Loss-Approximation-lending-portfolio-machine-learning
+## Simplified Approximation of Extraordinary Losses on a Lending Portfolio Using Machine Learning
 **************************************************************** SETUP GUIDE ******************************************************************
 	Author : Harpreet Singh / Shubham
 	Date of creation : 24/04/2022

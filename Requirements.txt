@@ -1,0 +1,11 @@
+Requirements for project :
+Below are the required libraries that needs to be installed before running the project.
+
+- Jupyter Notebook
+- Python 3
+- Pandas
+- Numpy
+- Scikit Learn
+- TensorFlow
+- matplotlib
+- Seaborn
